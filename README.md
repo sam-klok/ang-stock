@@ -1,3 +1,10 @@
+Used to get common stock:
+
+https://twelvedata.com/account/market-data
+https://api.twelvedata.com/stocks?apikey=6f7026034d724ea781376e301c7c3c88
+API keys 6f7026034d724ea781376e301c7c3c88
+
+
 # AngStock
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
