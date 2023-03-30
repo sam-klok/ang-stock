@@ -5,6 +5,8 @@ https://api.twelvedata.com/stocks?apikey=6f7026034d724ea781376e301c7c3c88
 API keys 6f7026034d724ea781376e301c7c3c88
 
 
+Also playing with getting local JSON file (sampleProducts.json) and Bored API.
+
 # AngStock
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
